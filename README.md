@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Pushpraj Desai!
 
-<!--
-**Pushpraj2002/Pushpraj2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://user-images.githubusercontent.com/your_image_path/banner.png)
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I'm currently a fourth-year B. Tech student at **PES University**, specializing in **Computer Science**. Passionate about **web development**, **data structures**, and **algorithms**, I thrive on solving complex programming challenges and continuously expanding my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌍 Background
+I was born and raised in India 🇮🇳, where I developed a strong foundation in technology and computer science. I'm now excited about pursuing new opportunities abroad and have set my sights on **Germany**. In the near future, I aim to pursue a **Master's in Computer Science** at a public university in Germany to deepen my expertise and broaden my global experience.
+
+---
+
+### 💼 Skills & Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Git-red?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Obsidian-purple?style=for-the-badge&logo=obsidian&logoColor=white" />
+</p>
+
+---
+
+### 🎓 Achievements
+- 🎓 **Foundation For Excellence Scholarship (FFE)** for 2024-25
+- 👨‍💻 Active Prepster with a passion for algorithmic problem-solving
+- 🔍 Currently exploring advanced spreadsheet skills
+
+---
+
+### 🌱 What's Next?
+- Learning **Git and its commands** to level up my version control skills
+- Exploring **investment options** to make informed financial decisions
+- Preparing to bring my skills to a **role in Germany**
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:pushpraj.desai@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/pushprajdesai"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+Thanks for stopping by, and I look forward to connecting with like-minded tech enthusiasts and professionals!
