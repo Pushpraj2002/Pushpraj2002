@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pushpraj Desai!
 
-![Banner](https://user-images.githubusercontent.com/your_image_path/banner.png)
+![Banner](Frame 1.png)
 
 ### 🚀 About Me
 I'm currently a fourth-year B. Tech student at **PES University**, specializing in **Computer Science**. Passionate about **web development**, **data structures**, and **algorithms**, I thrive on solving complex programming challenges and continuously expanding my technical skills.
