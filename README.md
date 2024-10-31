@@ -9,7 +9,7 @@ I'm currently a fourth-year B. Tech student at **PES University**, specializing 
 ---
 
 ### 🌍 Background
-I was born and raised in India 🇮🇳, where I developed a strong foundation in technology and computer science. I'm now excited about pursuing new opportunities abroad and have set my sights on **Germany**. In the near future, I aim to pursue a **Master's in Computer Science** at a public university in Germany to deepen my expertise and broaden my global experience.
+I was born and raised in India 🇮🇳, where I developed a strong foundation in technology and computer science. I'm now excited about pursuing new opportunities abroad. In the near future, I aim to pursue a **Master's in Computer Science** at one of the best public universitys to deepen my expertise and broaden my global experience.
 
 ---
 
