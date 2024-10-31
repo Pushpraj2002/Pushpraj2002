@@ -44,8 +44,8 @@ I was born and raised in India 🇮🇳, where I developed a strong foundation i
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:pushpraj.desai@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/pushprajdesai"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="pushpraj.desai.2020@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pushpraj-desai-869655240/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 Thanks for stopping by, and I look forward to connecting with like-minded tech enthusiasts and professionals!
